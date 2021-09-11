@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-These are some of my Machine Learning Projects.
+some Machine Learning Projects I did when I was starting out.
