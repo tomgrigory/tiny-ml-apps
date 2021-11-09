@@ -1,2 +1,2 @@
 # AI-projects
-tiny ml projs on python.
+some tiny ml projs on python.
