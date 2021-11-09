@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-some Machine Learning Projects I did when I was starting out.
+# AI-projects
+tiny ml projs on python.
